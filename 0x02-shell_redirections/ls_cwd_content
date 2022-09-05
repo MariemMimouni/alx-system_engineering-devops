@@ -1,0 +1,12 @@
+total 40
+-rwx--x--x 1 root root 32 Sep  5 10:46 0-hello_world
+-rwx--x--x 1 root root 28 Sep  5 11:03 1-confused_smiley
+-rwx--x--x 1 root root 28 Sep  5 11:14 2-hellofile
+-rwx--x--x 1 root root 39 Sep  5 11:24 3-twofiles
+-rwx--x--x 1 root root 29 Sep  5 11:33 4-lastlines
+-rwx--x--x 1 root root 29 Sep  5 11:44 5-firstlines
+-rwx--x--x 1 root root 36 Sep  5 11:49 6-third_line
+-rwx--x--x 1 root root 77 Sep  5 12:33 7-file
+-rwx--x--x 1 root root 36 Sep  5 13:40 8-cwd_state
+-rw-r--r-- 1 root root  0 Sep  5 13:41 ls_cwd_content
+-rw-r--r-- 1 root root 10 Sep  5 10:54 README.md
